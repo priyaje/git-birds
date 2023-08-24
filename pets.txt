@@ -1,3 +1,8 @@
 parrots
 crows
 humming birds
+flamingo
+peacock
+sparrow
+pigeons
+cuckoo
