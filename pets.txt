@@ -8,4 +8,6 @@ pigeons
 cuckoo
 grey horn
 horn bird
+peahen
+trinosaraus bird
 
